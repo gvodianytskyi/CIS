@@ -1,0 +1,18 @@
+{
+  "lname": "Petrenko",
+  "fname": "Ivan",
+  "mname": "Sidorovich",
+  "dob":"25-05-1994",
+  "style":"1",
+  "region1":"11",
+  "region2":"10",
+  "fst1":"2",
+  "fst2":"6",
+  "trainerid1":"985",
+  "trainer1":"Sydorenko M.V.",
+  "trainerid2":"985",
+  "trainer2":"Sydorenko M.V.",
+  "expires":"2015",
+  "lictype":"1",
+  "card_state":"1",
+}
